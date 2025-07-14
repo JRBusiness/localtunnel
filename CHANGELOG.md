@@ -1,3 +1,7 @@
+# 2.0.3 (2025-07-14):
+
+- Upgrade axios dependency to latest version to prevent vulnerability and enable passthrough for first time visitor.
+
 # 2.0.2 (2021-09-18)
 
 - Upgrade dependencies
